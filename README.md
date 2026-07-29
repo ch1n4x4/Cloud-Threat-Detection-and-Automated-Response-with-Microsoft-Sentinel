@@ -78,3 +78,5 @@ The full chain completed in under five minutes (between 3:50 AM and 3:55 AM), dr
 *   **Verify Ingestion First:** Running simple queries (like `take 10`) before building complex analytics saves time. An analytics rule built on an empty table will silently fail.
 *   **Test the Whole Chain:** A rule firing and a playbook running in isolation do not guarantee they work together. End-to-end testing is critical.
 *   **Naming Conventions:** Placing all assets in a single, properly named resource group made the project highly trackable.
+
+For a detailed breakdown of the engagement and original documentation, please reference the project file: <a href="https://drive.google.com/file/d/1Fnv_GgqXHQJqW_Nh8fuUUOC8OEJrlDip/view?usp=drive_link" target="_blank">Full Step by Step Documentation</a>.
