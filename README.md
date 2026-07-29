@@ -1,6 +1,6 @@
 # Cloud Threat Detection and Automated Response with Microsoft Sentinel
 
-This repository contains the architecture, implementation details, and documentation for establishing a proactive cloud security operations capability using Microsoft Azure[cite: 1]. This project was originally designed as a two-week proof of concept (PoC) for CloudScale Logistics, a mid-market freight and supply chain client, to resolve an ISO 27001 audit finding regarding their cloud detection and response processes[cite: 1].
+This repository contains the architecture, implementation details, and documentation for establishing a proactive cloud security operations capability using Microsoft Azure. This project was a two-week proof of concept (PoC) for CloudScale Logistics, a mid-market freight and supply chain client, to resolve an ISO 27001 audit finding regarding their cloud detection and response processes[<a href="https://drive.google.com/file/d/1Fnv_GgqXHQJqW_Nh8fuUUOC8OEJrlDip/view?usp=drive_link">Detailed Project Rationale</a>].
 
 For a detailed breakdown of the engagement and original documentation, please reference the project file: <a href="https://drive.google.com/file/d/1Fnv_GgqXHQJqW_Nh8fuUUOC8OEJrlDip/view?usp=drive_link">Full Step by Step Documentation</a>.
 
